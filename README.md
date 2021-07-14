@@ -1,2 +1,2 @@
 # Snake_Xenzia
-This is the C++ version of Snake Xnezia Game, have fun playing  :) 
+This is the python version of Snake Xnezia Game made using pygame module, have fun playing  :) 
